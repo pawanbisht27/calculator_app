@@ -34,7 +34,7 @@ advanced_calculator_flutter/
 └── README.md
 
 
-How to Run
+How to Run this app
 
 1. Clone the repository
 
